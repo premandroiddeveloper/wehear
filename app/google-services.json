@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103405652794",
+    "project_id": "wehear-540f4",
+    "storage_bucket": "wehear-540f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103405652794:android:af8b4596443cebb7265e03",
+        "android_client_info": {
+          "package_name": "com.example.wehear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103405652794-ua8s67qm4bqv0ar2om36ttlhqio890qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wehear",
+            "certificate_hash": "7c34f8d3757e2d492c038254a8a87f7b1da490c2"
+          }
+        },
+        {
+          "client_id": "103405652794-kvcp51sh3nq5lnasaing2n6anesk104f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyutR9fcwOdrHFFbJ4SmmBuT4c75A3A0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103405652794-kvcp51sh3nq5lnasaing2n6anesk104f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
